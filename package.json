@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.15",
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "scientific-cal",
+  "version": "1.0.1",
+  "main": "hello.js",
+  "type": "module",
+  "bin":"calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
